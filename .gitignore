@@ -1,6 +1,4 @@
 __pycache__/
 *.pyc
-data/
-*.png
 .vscode/
 .idea/
